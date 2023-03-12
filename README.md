@@ -93,6 +93,7 @@ row 4 col 6 must be 6
 row 5 col 2 must be 4
 row 6 col 5 must be 4
 row 7 col 6 must be 9
+
 strategy one
 row 1 col 6 must be 8
 row 2 col 1 must be 8
