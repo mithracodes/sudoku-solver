@@ -1,6 +1,6 @@
 # sudoku-solver
 
-This is my submission for ***Assignment 1 of COMP10002 Foundations of Algorithms***. The goal of sudoku is to complete a square grid of 9x9=81 cells using only the numbers from 1 to 9, in a way that has exactly one instance of each digit appearing in each column, in each row, and in each 3x3 sub-square.
+This is my submission for ***Assignment 1 of COMP10002 Foundations of Algorithms in Sem 2 2021***. The goal of sudoku is to complete a square grid of 9x9=81 cells using only the numbers from 1 to 9, in a way that has exactly one instance of each digit appearing in each column, in each row, and in each 3x3 sub-square.
 
 ## Overview
 The task for this assignment is to develop a sudoku assistant that helps people solve their sudoku puzzles. I used a one-dimensional C array to store a linearized version of the sudoku matrix, and write functions that carry out useful operations, including checking for numbering violations, identifying any "it must be that value" cells, and perhaps even solving some easy puzzles through to completion.
